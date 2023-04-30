@@ -1,4 +1,5 @@
-### Hi there 👋
+Hello there, I'm Joshua Hess and I'm a senior at Eastern Washington Univeristy. Currently I'm working on my CSCD-379 repo in Vue.js. 
+
 
 <!--
 **j0shh3ss/j0shh3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
