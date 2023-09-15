@@ -1,4 +1,4 @@
-Hello there, I'm Joshua Hess and I'm a senior at Eastern Washington Univeristy. Currently I'm working on my CSCD-379 repo in Vue.js. 
+Hello there, I'm Joshua Hess and I'm a recent graduate of Eastern Washington Univeristy. Currently I'm working on bgeigecast. 
 
 
 <!--
