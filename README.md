@@ -1,4 +1,4 @@
-Hello there, I'm Joshua Hess and I'm a recent graduate of Eastern Washington Univeristy. Currently I'm working on bgeigecast. 
+Hello there, I'm Joshua Hess and a recent graduate of Eastern Washington Univeristy. Currently I'm working on bgeigecast. 
 
 
 <!--
