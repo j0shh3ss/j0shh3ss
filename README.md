@@ -1,4 +1,4 @@
-Hello there, I'm Joshua Hess and a recent graduate of Eastern Washington Univeristy. Currently I'm working on bgeigeZen. 
+Hello there, I'm Joshua Hess and a recent graduate of Eastern Washington University. Currently in the midsts of starting new projects. 
 
 
 <!--
