@@ -5,7 +5,7 @@
 I’m someone who genuinely enjoys building, breaking, and understanding systems at a deeper level.  
 What started as curiosity has turned into a long-term path toward cybersecurity and infrastructure engineering.
 
-Right now, I’m working hands-on with systems administration while steadily pushing toward cyber operations—building labs, experimenting, and learning by doing.
+Right now, I’m working hands-on Windows Engineering while steadily pushing toward cyber operations—building labs, experimenting, and learning by doing.
 
 ---
 
@@ -27,7 +27,7 @@ I run a multi-purpose homelab where I simulate real-world environments and host 
 - Multiple physical machines (Optiplex + Precision builds)
 - Ubuntu server environments
 - Minecraft servers (modded + vanilla)
-- Rust server (small-scale testing)
+- Rust server
 - Plex media server
 - NAS for backups and storage
 - Test environments for experimentation
@@ -45,6 +45,10 @@ This is where most of my real learning happens—breaking things, fixing them, a
 
 This project represents a shift for me—moving from just software and systems into physical tech and embedded systems.
 
+### 🤖 MotionEye Controlled Robot Car
+- Built using Elegoo Smart Car v4.0
+- Designing "Home Base" for Car to recharge + activate
+- Secure Coding practices in mind to prevent unwanted control
 ---
 
 ## ⚙️ Tech & Tools
@@ -61,7 +65,8 @@ This project represents a shift for me—moving from just software and systems i
 
 - Transition into a Cyber Operations / SOC role  
 - Build advanced detection & monitoring skills  
-- Continue developing real-world lab environments  
+- Continue developing real-world lab environments
+- Contribute to Cybersecurity in Robotics realm
 - Eventually design and deploy secure, scalable systems  
 
 ---
@@ -72,12 +77,6 @@ This project represents a shift for me—moving from just software and systems i
 - I tend to over-engineer (on purpose) to truly understand systems  
 - Big on independence, growth, and doing things the right way  
 - Known to spend hours debugging something just to *fully* understand it  
-
----
-
-## 📫 Connect With Me
-
-*(Add your LinkedIn or other links here)*
 
 ---
 
