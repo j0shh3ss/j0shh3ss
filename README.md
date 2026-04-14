@@ -5,8 +5,6 @@
 I’m someone who genuinely enjoys building, breaking, and understanding systems at a deeper level.  
 What started as curiosity has turned into a long-term path toward cybersecurity and infrastructure engineering.
 
-Right now, I’m working hands-on Windows Engineering while steadily pushing toward cyber operations—building labs, experimenting, and learning by doing.
-
 ---
 
 ## 🧠 Currently Learning
@@ -49,6 +47,7 @@ This project represents a shift for me—moving from just software and systems i
 - Built using Elegoo Smart Car v4.0
 - Designing "Home Base" for Car to recharge + activate
 - Secure Coding practices in mind to prevent unwanted control
+
 ---
 
 ## ⚙️ Tech & Tools
