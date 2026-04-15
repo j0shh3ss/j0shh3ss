@@ -48,6 +48,11 @@ This project represents a shift for me—moving from just software and systems i
 - Designing "Home Base" for Car to recharge + activate
 - Secure Coding practices in mind to prevent unwanted control
 
+### 💻 BlockNet
+- Minecraft Log watcher
+- Watches for non-whitelisted player login attempts
+- Stores events in JSON
+
 ---
 
 ## ⚙️ Tech & Tools
