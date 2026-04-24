@@ -2,7 +2,8 @@
 
 **Systems Engineer | Cybersecurity Enthusiast**
 
-I’m someone who genuinely enjoys building, breaking, and understanding systems at a deeper level.  
+I’m someone who genuinely enjoys building, breaking, and understanding systems at a deeper level.
+Knowing why something works is the foundation for knowing how it works.
 What started as curiosity has turned into a long-term path toward cybersecurity and infrastructure engineering.
 
 ---
