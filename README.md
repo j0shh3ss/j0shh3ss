@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Joshua
 
-**Systems Engineer | Cybersecurity Enthusiast**
+**Systems Engineer | Cybersecurity Enthusiast | Robotics tick**
 
 Knowing why something works is the foundation for knowing how it works.
 
